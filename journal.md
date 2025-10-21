@@ -66,3 +66,11 @@ Then the next 4 pieces (the smaller ones that are for the waist) were glued onto
 ![20251020_223259](https://github.com/user-attachments/assets/0200241d-02a6-4d9e-bf94-7b5a9bac2d4a)
 
 Next step is to attach the lower body to the wheel base (which will be done by attaching two wooden planks onto the base), and also attach the lazy susan & take out the servo motor and figure out the wiring.
+
+## October 21
+
+Today Jiho and I began by cutting the wooden boards for our base as well as the upper torso's motor, which were done in the scene shop.
+![20251021_135813](https://github.com/user-attachments/assets/9e0cb623-0deb-4430-8dc5-177af850f69d)
+
+Then we drilled holes through both of the wooden boards & through the base, and secured them together with nuts and bolts after measuring approximately where we should position the boards on the base.
+![20251021_140437](https://github.com/user-attachments/assets/d18cfce5-af0e-4c9d-879b-2fa60d4638a9)
