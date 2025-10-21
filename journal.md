@@ -42,3 +42,27 @@ And finally, we successfully fitted the motor from the inside of the torso after
 We also had a couple of side quests going on, such as trying to attach the wooden boards onto the robot base that will help with balancing and taking on the weight of our robot's torso -- we successfully cut all the necessary boards in the Scene Shop, but we ended up having to redo one of them because unfortunately it split during the drilling process. :(
 
 By the end of the break & start of next class (on Tuesday), we aim to have the lazy susan attached, as well as the two wooden boards at the bottom of the base.
+
+## October 20
+
+After coming back from break, we immediately started working on making progress on our robot, as we had quite a few tasks to get done for our midterm progress on Thursday:
+- attach the lower body to the wheel base
+- attach the lazy susan and giant servo motor
+- build the upper body (which was finished on this day)
+- upper body controlled by the giant servo with Arduino and 12V power
+
+We started by building the upper body with cardboard, and we revised some calculations for the lengths of our upper/lower body as well as the head/neck by drawing out a quick diagram to flush out our thoughts on the board.
+![20251020_205931](https://github.com/user-attachments/assets/1d5ec361-bba3-4175-a379-22a89d5fc024)
+
+Then we measured and cut out the upper torso's sides, which were a total of 8 sides with 4 of them being 33cm (width) x 30cm (height) and the other 4 being 33 cm (width) x 10cm (height). 
+![20251020_210241](https://github.com/user-attachments/assets/022b73e4-321c-4161-992c-3d3310b7b92d)
+![20251020_211656](https://github.com/user-attachments/assets/a8131589-1f9d-4e5e-922c-39c446c08080)
+
+The first 4 pieces (the bigger ones that are for the bust) were then glued together & reinforced:
+![20251020_2![20251020_222011](https://github.com/user-attachments/assets/a533a3ea-892a-4113-accf-391f0b2cf4f5)
+22003](https://github.com/user-attachments/assets/4619299f-e26e-4b0b-8d7c-b820baa564cb)
+
+Then the next 4 pieces (the smaller ones that are for the waist) were glued onto that, which was the final result of our upper torso:
+![20251020_223259](https://github.com/user-attachments/assets/0200241d-02a6-4d9e-bf94-7b5a9bac2d4a)
+
+Next step is to attach the lower body to the wheel base (which will be done by attaching two wooden planks onto the base), and also attach the lazy susan & take out the servo motor and figure out the wiring.
