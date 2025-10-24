@@ -74,3 +74,84 @@ Today Jiho and I began by cutting the wooden boards for our base as well as the 
 
 Then we drilled holes through both of the wooden boards & through the base, and secured them together with nuts and bolts after measuring approximately where we should position the boards on the base.
 ![20251021_140437](https://github.com/user-attachments/assets/d18cfce5-af0e-4c9d-879b-2fa60d4638a9)
+
+## October 22
+
+At this point, we still had the following things left on our to-do list till Thursday:
+- attach the lower body to the wheel base
+- attach the lazy susan and giant servo motor
+- upper body controlled by the giant servo with Arduino and 12V power
+
+We began by cutting out a large rectangle from the back of the lower torso, so that we could access the motor by reaching inside the robot through this new gap.
+![20251022_194231](https://github.com/user-attachments/assets/3355256a-8883-46b5-ad7a-ba0df76bdac9)
+
+Then we realized that our robot torso was starting to tilt forward due to the weight, so we decided to place some pieces of cardboard between the robot torso and the wooden planks attached to the base, which solved the problem.
+![20251022_200803](https://github.com/user-attachments/assets/18061d7f-2973-4a4a-9fe4-75ba93ce80e2)
+![20251022_202705](https://github.com/user-attachments/assets/541f1a90-2a1e-4c21-a490-d9c02d68e7db)
+
+After that, we decided to attach the L-bridge to all four sides of our torso so that our torso would be secured to the two wooden plank strips on the base, which meant that we were done with attaching the lower body to the wheel base!
+![20251022_200148](https://github.com/user-attachments/assets/9c61b92c-b901-4d9b-9cb1-1fd5230ec85f)
+![20251022_194242](https://github.com/user-attachments/assets/f89d6fd8-dde9-47b4-b49e-b86ffa0ae2ee)
+
+And finally, we made the upper body out of cardboard again, and also made the lid of the upper base, on which we glued on two smaller wooden boards so that it's sturdier. 
+![20251022_203912](https://github.com/user-attachments/assets/33212f22-a8e2-4cbd-99e4-08f4a1a913ac)
+![20251022_203919](https://github.com/user-attachments/assets/acb0ba16-62b3-4acd-ba0c-cd86f7fe8c8d)
+
+Then we tried attaching the lazy susan from the inside of the robot, but it turned out to be more difficult than we thought because we had to 1) align the holes together, 2) push the bolt through, and then 3) hold the bolt while screwing it from the inside. But we ended up successfully getting it done.
+![20251022_211446](https://github.com/user-attachments/assets/980d842a-3db3-4180-8ec9-0d2f4c71a9e4)
+![20251022_211326](https://github.com/user-attachments/assets/8640d8f4-4dc7-4278-a8ea-9430816fafa6)
+
+So by the end of this day, we had:
+- attach the lower body to the wheel base (completed this day)
+- attach the lazy susan and giant servo motor
+done.
+
+## October 23
+
+The only thing we had left in our agenda was having the upper body be controlled by the giant servo with Arduino and 12V power, which we started working on once we received the Arduino mega from Professor Shiloh.
+The wiring process basically went down like this:
+- First and foremost, we had to unscrew the motor from its place because we needed it to do the wiring, and because it was already attached to the top of the lower body, we couldn't access it unless we crawled into the robot again. So for convenience, we just detached it from the body.
+- We attached two wires from the motor's + and - sides into the 12V battery's + and - sides.
+- Then we had two wires that were attached to GND and pin 7.
+
+After doing so and testing to see if the code works, we changed our jumper wires to normal wires, and changed our board to Arduino Mega.
+![20251023_151705](https://github.com/user-attachments/assets/f0edbdd7-0c5d-4503-ba2b-ba93dbfc907d)
+![20251023_151712](https://github.com/user-attachments/assets/c42b0fdc-81cc-4218-b474-c04fc58c5c0f)
+![20251023_151719](https://github.com/user-attachments/assets/c77de3ee-0eda-42a5-87f1-3fd7d3e65347)
+![20251023_151723](https://github.com/user-attachments/assets/1aa1a41b-e6d8-488c-8577-6265c22dd748)
+
+But then when we were trying to run the code through the circuit, it kept giving us errors -- at first, it told us this: "avrdude: stk500_getsync() attempt 3 of 10: not in sync: resp=0x00 avrdude: stk500_recv(): programmer is not responding." Upon research, we realized that this means that it isn't the code's problem, but there's something wrong with the connection with the board. Then we got this error: "avrdude: stk500v2_ReceiveMessage(): timeout" which was also related to the connection with the board. So we ended up switching our connector cord and it started working, haha. The correct port appeared so we selected that, and the code was running fine!
+Then we asked Mustafa about what code he used to test the motor's movement, and he told us that we can use the Sweep code that's already written in Arduino and just change the pin so that it's in accordance to whichever pin we were using.
+
+The code was the following:
+#include <Servo.h>
+
+Servo myservo;  // create servo object to control a servo
+// twelve servo objects can be created on most boards
+
+int pos = 0;    // variable to store the servo position
+
+void setup() {
+  myservo.attach(7);  // attaches the servo on pin 9 to the servo object
+}
+
+void loop() {
+  for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
+    // in steps of 1 degree
+    myservo.write(pos);              // tell servo to go to position in variable 'pos'
+    delay(15);                       // waits 15 ms for the servo to reach the position
+  }
+  for (pos = 180; pos >= 0; pos -= 1) { // goes from 180 degrees to 0 degrees
+    myservo.write(pos);              // tell servo to go to position in variable 'pos'
+    delay(15);                       // waits 15 ms for the servo to reach the position
+  }
+}
+
+And we saw that the motor was rotating fine, albeit slowly, so we decide to reattach the motor back into the torso. With this, our checklist for our midterm check was complete (except we couldn't attach the upper body because the rod of the motor wasn't long enough).
+![20251023_165602](https://github.com/user-attachments/assets/c6fe1805-8dcf-43e7-afe7-cf5fa8a8edee)
+![20251023_165611](https://github.com/user-attachments/assets/df544df3-b050-4ece-87c6-43a03e5a95c7)
+
+Oh, and we also detached our torso from the base because we needed to take the motor out, so we put back the L-bridge in there, too.
+![20251023_170025](https://github.com/user-attachments/assets/5ebe6c97-8de5-457a-810f-ab7a3999a41a)
+
+Next step on the agenda is to: 1) attach the upper torso onto the lazy susan & the motor, 2) start crafting the neck and the head, and 3) figure out the motors for the hands & the eyelids (which are the other two parts of our robot that's going to move).
