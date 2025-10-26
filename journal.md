@@ -102,7 +102,7 @@ Then we tried attaching the lazy susan from the inside of the robot, but it turn
 ![20251022_211326](https://github.com/user-attachments/assets/8640d8f4-4dc7-4278-a8ea-9430816fafa6)
 
 So by the end of this day, we had:
-- attach the lower body to the wheel base (completed this day)
+- attach the lower body to the wheel base
 - attach the lazy susan and giant servo motor
 done.
 
@@ -155,3 +155,21 @@ Oh, and we also detached our torso from the base because we needed to take the m
 ![20251023_170025](https://github.com/user-attachments/assets/5ebe6c97-8de5-457a-810f-ab7a3999a41a)
 
 Next step on the agenda is to: 1) attach the upper torso onto the lazy susan & the motor, 2) start crafting the neck and the head, and 3) figure out the motors for the hands & the eyelids (which are the other two parts of our robot that's going to move).
+
+## October 26
+
+1. Compared to the list above, what did you accomplish for last Thursday (October 23)?
+   --> I've already listed them above, but I'll recap again! We have finished everything on the below list except for attaching the upper body because the rod of the motor wasn't long enough. However, we did have our giant servo motor moving with Arduino and 12V power!
+  - attach the lower body to the wheel base
+  - attach the lazy susan and giant servo motor
+  - build the upper body (which was finished on this day)
+  - upper body controlled by the giant servo with Arduino and 12V power
+2. What will you accomplish for this Thursday October 30?
+  --> We will be trying to accomplish:
+  - attaching the upper torso to the lazy susan and the motor by using extension rod
+  - build arms, neck, and head and attach them to the torso
+3. What features remain to be implemented?
+  - Arms, head, and neck need to be built and attached
+  - We want the hands (specifically the fingers) to move, so we need servo motors there
+  - We also want the eyelids to flutter, so we need servo motors for those as well
+  - Costume, accessories, and hair!
