@@ -173,3 +173,24 @@ Next step on the agenda is to: 1) attach the upper torso onto the lazy susan & t
   - We want the hands (specifically the fingers) to move, so we need servo motors there
   - We also want the eyelids to flutter, so we need servo motors for those as well
   - Costume, accessories, and hair!
+
+## October 28
+Today, we started working on the other components of the robot, and we got the shoulders and the neck done because we still haven't figured out how to attach the upper body to the motor yet. 
+We first drew out how we wanted our robot's shoulders to look on the whiteboard, and after some brainstorming we decided to make it out of cardboard (we were considering just sticking a long pole through at first, but then we decided that we want the shoulders to have some shape/rigidity), and that it'll be cut in a T shape so that the longer vertical part of it is glued to the upper torso's front and back sides for extra support and have the horizontal part of it stretch out in a straight line, serving as the shoulder.
+![WhatsApp Image 2025-10-29 at 00 00 24](https://github.com/user-attachments/assets/741e572b-fffa-40be-83e0-0e8c3532c4ee)
+
+We decided to use cardboard that was already creased on one of the sides that we needed to fold, and then calculated the necessary lengths of the shoulder from there -- then we cut it out, and then folded the cardboard so that it sat like this:
+![WhatsApp Image 2025-10-29 at 00 00 23](https://github.com/user-attachments/assets/6dfeaa55-2cee-4bfc-a98f-35459228afc1)
+![WhatsApp Image 2025-10-29 at 00 00 21](https://github.com/user-attachments/assets/f18566d8-efb1-4d91-a0e0-63f865ae74cf)
+
+Then we glued it onto the torso:
+![WhatsApp Image 2025-10-29 at 00 00 22](https://github.com/user-attachments/assets/a2c8b428-3c68-4dd2-8a2e-147f0a41bab1)
+
+And on top of the newly added shoulders we attached our neck also via glue gun:
+![WhatsApp Image 2025-10-29 at 00 00 26](https://github.com/user-attachments/assets/fffc95c2-2ee5-4d60-8ab0-85230defb61a)
+![WhatsApp Image 2025-10-29 at 00 00 25](https://github.com/user-attachments/assets/14923d8b-7aa1-4a4f-8a4d-9897c1ffd2e4)
+
+So the final product of our progress today was this:
+![WhatsApp Image 2025-10-29 at 00 00 22](https://github.com/user-attachments/assets/2c3c8632-85e4-424d-8288-7ce57cd5ed0c)
+
+Tomorrow we plan on 1) attaching the upper torso to the motor, and 2) making the arms, head, and chest and attaching them to the robot torso.
