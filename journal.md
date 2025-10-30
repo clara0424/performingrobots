@@ -193,4 +193,28 @@ And on top of the newly added shoulders we attached our neck also via glue gun:
 So the final product of our progress today was this:
 ![WhatsApp Image 2025-10-29 at 00 00 22](https://github.com/user-attachments/assets/2c3c8632-85e4-424d-8288-7ce57cd5ed0c)
 
-Tomorrow we plan on 1) attaching the upper torso to the motor, and 2) making the arms, head, and chest and attaching them to the robot torso.
+Tomorrow we plan on 1) attaching the upper torso to the motor, and 2) making the arms, shoulder and chest and attaching them to the robot torso.
+
+## October 29
+Jiho and I met up in the lab at night to continue our homework for Thursday, and we started by attaching the upper body to the servo motor.
+We first estimated the placement of potential holes on our wooden board (which would be the bottom of our upper torso) to drill so that we can put the bolts through these, and then we secured the hub onto the board in a way so that the flange (the flat part of the hub) is reaching above the lazy susan, as professor told us.
+![WhatsApp Image 2025-10-30 at 08 39 15 (2)](https://github.com/user-attachments/assets/a4818ab6-f27e-4a94-a86b-418f0d241bba)
+![WhatsApp Image 2025-10-30 at 08 39 15 (1)](https://github.com/user-attachments/assets/14120cd6-96e5-4fd9-b14e-9e1b52f27824)
+![WhatsApp Image 2025-10-30 at 08 39 15](https://github.com/user-attachments/assets/bae18dbb-4383-42a3-9792-1ac49ee4c7aa)
+
+Then we fastened the bolts of the hub, and voila, we had the board attached to the lower torso.
+![WhatsApp Image 2025-10-30 at 08 39 14 (2)](https://github.com/user-attachments/assets/1dce62ac-308e-4fef-8105-f6c2e80e8546)
+
+After that, we glued the upper torso onto the board that was attached now, and then set out on building the arms of the robot.
+![WhatsApp Image 2025-10-30 at 08 39 14 (1)](https://github.com/user-attachments/assets/929e70df-6d44-4e4c-b5e2-d4b9f47e20a2)
+
+We decided to make the arms long rectangles, and that the total length of the arm will reach the beginning of the robot's hips. 
+![WhatsApp Image 2025-10-30 at 08 39 12](https://github.com/user-attachments/assets/f093cad3-1f59-4a32-9c1d-5d7e799d3e14)
+![WhatsApp Image 2025-10-30 at 08 39 14](https://github.com/user-attachments/assets/9b401f27-bb61-4d18-9fa8-c1d55e4ba763)
+
+And while we made both the upper part and the lower part of the arms, we didn't attach them yet because we are planning to have motors at where the elbows are so that the arms can bend up and go back down.
+Some of the next steps we can take are: 
+- Attach the motors to each of the elbows
+- Make and attach the head & chest
+- Build the hands and figure out the motors for it
+- Test the code for the servo motor to see if the upper torso is controlled correctly
