@@ -223,11 +223,11 @@ Some of the next steps we can take are:
 We unfortunately don't have any pictures from this day, but we took our Arduino and our music server to the professor, who tried to solve some of the problems and questions we were running into while trying to connect the receiver and transmitter. After changing the necessary parts of the code (i.e. the pin numbers, etc.) we were set with the connection!
 
 ## November 6
-In class today we tried to fix the waist motor because for some reason the motor wasn't working (the last time we tested it was working fine), but we didn't quite get to solving it yet; however, we are thinking of inspecting the wiring of it to see what the problem might be.
+In class today we tried to fix the waist motor because, for some reason, the motor wasn't working (the last time we tested it was working fine), but we didn't quite get to solving it yet; however, we are thinking of inspecting the wiring of it to see what the problem might be.
 
 ![WhatsApp Image 2025-11-07 at 01 10 13](https://github.com/user-attachments/assets/4adae63b-20d4-4204-b27e-efa714c9b0c9)
 
-Here are things that we are going to get done this weekend + till Tuesday:
+Here are things that we are going to get done this weekend + till next Thursday 11/13:
 •⁠  ⁠fix the waist motor
 •⁠  ⁠⁠put motors for elbows
 •⁠  after charging the battery, ⁠⁠move the entire robot back and forth and left and right
