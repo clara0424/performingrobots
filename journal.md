@@ -232,3 +232,18 @@ Here are things that we are going to get done this weekend + till next Thursday 
 •⁠  ⁠⁠put motors for elbows
 •⁠  after charging the battery, ⁠⁠move the entire robot back and forth and left and right
 •⁠  ⁠⁠figure out and outline our 3 main quirks
+
+## November 10
+We first began by testing out the movement of the robot, and while it worked fine in terms of left and right as well as front and back, the back (reverse) had a bit of a problem because it kept curving towards one side as the wheels reversed. So I tried fixing it by adjusting the value of the speed of the right motor by reducing it to 0.92, and while it was somewhat better, it was still curving towards one side slightly, so I decided to adjust it by adjusting the left and right of the robot while driving it backwards simultaneously. All in all, I was glad to see that the robot's movements were working.
+
+Then we set out to fix the waist motor, but this was much more difficult than I thought, haha. So I decided to outline our robot's 3 main quirks first, which are the following:
+1) rotating at the waist (hips)
+2) elbows bending up and down, fingers clacking (total of 4 motors needed)
+3) moving eyebrows up and down quickly (2 motors needed).
+
+And then we tried to figure out the problem with the waist again, but even after trying to change the PINs in the code as well as checking the wires, we couldn't tell what the problem was.
+
+So we decided to do the following tomorrow:
+1. Fix the waist motor.
+2. Make it controllable by the music maker shield.
+3. Check our quirks with the professor + ask how we should attach our elbow motors.
