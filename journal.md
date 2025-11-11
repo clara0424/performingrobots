@@ -247,3 +247,26 @@ So we decided to do the following tomorrow:
 1. Fix the waist motor.
 2. Make it controllable by the music maker shield.
 3. Check our quirks with the professor + ask how we should attach our elbow motors.
+
+## November 11
+We finally fixed our waist motor! Turns out the problem was straightforward: we had plugged the wires in backwards, haha. Once we flipped it, the motor started rotating, so the problem was solved.
+![WhatsApp Image 2025-11-12 at 00 30 04](https://github.com/user-attachments/assets/864dd5af-d4ca-471c-854f-4d332bb868fa)
+https://github.com/user-attachments/assets/00c8f8b9-4948-412e-a52f-428f43a51c92
+
+Then we moved on to fixing the code to control the waist motor using the music maker shield, which the professor helped us with. The main changes we made were changing the names of the variables so that they correspond to whatever motion and part of the robot we were using, so we decided to run it, but then our controller started to twitch, so we couldn't figure out what was going on with it.
+
+However, we also got another thing crossed off from our list, which was checking all of our robot's motions with the professor -- we have confirmed that the 3 main movements that our robot is going to have are:
+1) rotating its waist, 2) raising its elbows, and 3) clacking its fingers together.
+And if we have more time, then we might also add motors to the eyelashes to make them flutter open and close in a fast way, but that's not our priority as of now.
+
+So we then set out to figure out how to attach the motors to the elbows, and the first step to that was cutting out the wooden boards that will be at the bottom of the elbow structure, on which we will drill the motors. We measured out the size of the square that we needed, and then we went to the Scene Shop to cut out a few squares, and then came back and glued two of them onto either bottom of the elbows. 
+
+We also cut out an opening in our robot's upper torso, so that we can reach inside and tighten the nut back onto the bolt. 
+![WhatsApp Image 2025-11-12 at 00 30 03](https://github.com/user-attachments/assets/d8f6bd94-95c9-4568-9f5a-c59ed93385a9)
+![WhatsApp Image 2025-11-12 at 00 30 02](https://github.com/user-attachments/assets/9773dfd1-3b55-4dde-b47a-eccadb4e545c)
+
+That's all we accomplished for today, and tomorrow we are aiming to:
+1) Make the waist motor controllable by our new controller,
+2) Drill the motors onto the elbows, and
+3) Play audio from our new controller (music maker shield).
++ We also need to edit our script...
