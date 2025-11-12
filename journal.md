@@ -267,8 +267,8 @@ We also cut out an opening in our robot's upper torso, so that we can reach insi
 ![WhatsApp Image 2025-11-12 at 00 30 02](https://github.com/user-attachments/assets/9773dfd1-3b55-4dde-b47a-eccadb4e545c)
 
 That's all we accomplished for today, and tomorrow we are aiming to:
-1) Make the waist motor controllable by our new controller,
-2) Play audio from our new controller (music maker shield).
+1) Make the waist motor controllable by our nRF transmitter,
+2) Play audio from the music maker shield.
 + We also need to edit our script!
 
 ## November 12
@@ -279,15 +279,19 @@ First, we tried to run the nRF transmitter with our new Arduino Uno that we got 
 <img width="509" height="683" alt="Screenshot 2025-11-12 at 11 10 32 PM" src="https://github.com/user-attachments/assets/718c6866-7819-4796-b24c-879ae1b0af6b" />
 
 --> update: we figured out the problem, it was the Arduino Uno! But while the nRF transmitter was now showing texts on the screen, it still gave errors when trying to transmit and said "message received Data = 0." However, it did show:
-radio successfully initialized
+"radio successfully initialized
 I am a receiver
-VS1053 found.
+VS1053 found."
 
-So we tried to play audio from our music maker shield -- we first created some AI generated voice dialogues using Elevenlab, and then after downloading the audio files, we created some code and then connected our speaker to the music maker shield and ran the code, but it kept giving me errors such as these:
+So we moved onto our next step, and we tried to play audio from our music maker shield -- we first created some AI generated voice dialogues using Elevenlab, and then after downloading the audio files, we created some code and then connected our speaker to the music maker shield and ran the code, but it didn't generate any sound. So we ran it through chat, and it said that it's most likely a problem with wiring or ICSP... we asked Chat to give some troubleshooting codes, and it kept showing these errors on our serial monitor:
 ![WhatsApp Image 2025-11-12 at 22 55 24](https://github.com/user-attachments/assets/e54baa4d-92af-471c-a79e-e42b0c6d3906)
 ![WhatsApp Image 2025-11-12 at 22 55 24 (1)](https://github.com/user-attachments/assets/876d28c1-a727-41d0-8754-ea464287519c)
 ![WhatsApp Image 2025-11-12 at 22 55 23](https://github.com/user-attachments/assets/571c1f78-2a57-428f-a798-7606a1dc2714)
 ![WhatsApp Image 2025-11-12 at 22 55 23 (1)](https://github.com/user-attachments/assets/c2f83973-1636-4c98-9833-4cf09d952ce2)
 ![WhatsApp Image 2025-11-12 at 22 55 22](https://github.com/user-attachments/assets/074d1776-aa1f-45dc-b8da-e36f64300709)
 
-We also ran it through chat, and it said that it's most likely a problem with wiring or ICSP...
+At this point our batteries were out again, so we decided to at least fix the script so that we can run through the dialogues at least tomorrow during class time, and so we fixed scene 2 and scene 4, which are the scenes where our character (the best friend) will appear.
+
+Tomorrow Jiho and I are planning to test out and troubleshoot to try to fix the following problems before class:
+1. Controlling the waist motor with our nRF transmitter (we did make some progress on this because now that we switched out the Arduino Uno the green shield is displaying text!).
+2. Playing audio with our music maker shield.
