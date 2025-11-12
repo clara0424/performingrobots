@@ -260,6 +260,7 @@ However, we also got another thing crossed off from our list, which was checking
 And if we have more time, then we might also add motors to the eyelashes to make them flutter open and close in a fast way, but that's not our priority as of now.
 
 So we then set out to figure out how to attach the motors to the elbows, and the first step to that was cutting out the wooden boards that will be at the bottom of the elbow structure, on which we will drill the motors. We measured out the size of the square that we needed, and then we went to the Scene Shop to cut out a few squares, and then came back and glued two of them onto either bottom of the elbows. 
+![WhatsApp Image 2025-11-12 at 00 30 09](https://github.com/user-attachments/assets/b78115ab-99af-4773-883d-16b5684c5484)
 
 We also cut out an opening in our robot's upper torso, so that we can reach inside and tighten the nut back onto the bolt. 
 ![WhatsApp Image 2025-11-12 at 00 30 03](https://github.com/user-attachments/assets/d8f6bd94-95c9-4568-9f5a-c59ed93385a9)
