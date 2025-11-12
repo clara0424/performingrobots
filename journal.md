@@ -1,4 +1,5 @@
-![WhatsApp Image 2025-11-07 at 01 10 13](https://github.com/user-attachments/assets/77a6b773-7cd0-4e22-aeaa-c282c378493b)## October 2
+## October 2
+![WhatsApp Image 2025-11-07 at 01 10 13](https://github.com/user-attachments/assets/77a6b773-7cd0-4e22-aeaa-c282c378493b)
 
 We began to build our body on Wednesday, October 1st, where we mapped out a sketch of our robot structure first on the board.
 Because we envisioned our robot (the best friend of the wife) to be a gorgeous baddie, we decided to give her an hourglass figure with a snatched waist and voluminous upper and lower body silhouette. We also planned to have servo motors for her waist and her head so that she can shake/rotate her hips and toss her hair back. Here's a picture of our plan:
