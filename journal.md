@@ -293,6 +293,22 @@ So we moved onto our next step, and we tried to play audio from our music maker 
 
 At this point our batteries were out again, so we decided to at least fix the script so that we can run through the dialogues at least tomorrow during class time, and so we fixed scene 2 and scene 4, which are the scenes where our character (the best friend) will appear.
 
-Tomorrow Jiho and I are planning to test out and troubleshoot to try to fix the following problems before class:
+AND here is our GAME PLAN for this week:
+
+THURSDAY:
 1. Controlling the waist motor with our nRF transmitter (we did make some progress on this because now that we switched out the Arduino Uno the green shield is displaying text!).
-2. Playing audio with our music maker shield.
+2. Elbow motors attach + wiring
+3. Draw out a diagram for the hand and check with professor 
+
+FRIDAY:
+1. Playing audio with our music maker shield.
+2. Coding for the elbow motors (movement 1 -- both arms moving at the same time).
+
+SATURDAY:
+1. Start building the hands.
+2. Run the hand wiring through with professor.
+3. Coding for the elbow motors (movement 2 -- both arms moving at different times, which will be our dance move).
+
+SUNDAY:
+1. Finish the hands.
+2. Start on the face. 
