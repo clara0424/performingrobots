@@ -268,6 +268,5 @@ We also cut out an opening in our robot's upper torso, so that we can reach insi
 
 That's all we accomplished for today, and tomorrow we are aiming to:
 1) Make the waist motor controllable by our new controller,
-2) Drill the motors onto the elbows, and
-3) Play audio from our new controller (music maker shield).
-+ We also need to edit our script...
+2) Play audio from our new controller (music maker shield).
++ We also need to edit our script!
