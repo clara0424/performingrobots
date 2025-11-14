@@ -312,3 +312,27 @@ SATURDAY:
 SUNDAY:
 1. Finish the hands.
 2. Start on the face. 
+
+## November 13
+
+Today, we have finally solved both the waist motor problem and the audio problem! 
+For problem #1 (controlling the waist motor movement with nRF controller), it turned out that we were uploading the transmitter code for receiver/vice versa; we were also suspicious of some of the parts, such as our music chip or the music maker shield, but it eventually worked after we uploaded the right code for the right transmitter/receiver. 
+Then as for the audio problem, we just realized that we were plugging in our cable into the wrong hole in the speaker, haha. So the result was this:
+
+https://github.com/user-attachments/assets/c998fd25-5161-4d19-bb39-a792d670b297
+
+Then we moved onto our next task on the to-do list, which was drawing out the diagram for the hand and checking it with the professor. 
+![WhatsApp Image 2025-11-14 at 20 08 49 (1)](https://github.com/user-attachments/assets/5c6ccf7b-303f-450b-9212-8b950643cb22)
+
+Professor Shiloh also made a prototype out of a motor and a wheel, and he showed us how our fingers would flap if they were attached to the wheel, which will be attached to the motor. 
+![WhatsApp Image 2025-11-14 at 20 08 48](https://github.com/user-attachments/assets/5b3783f7-2dff-4c32-8f75-3a86b1d67e52)
+![WhatsApp Image 2025-11-14 at 20 08 48 (1)](https://github.com/user-attachments/assets/c4021209-0962-4373-9bb3-0264735ad2a5)
+![WhatsApp Image 2025-11-14 at 20 08 49](https://github.com/user-attachments/assets/c00dd0b8-fe15-4fef-b9bf-6b2714b35fa9)
+
+He advised us to craft the fingers first out of cardboard, but hold off on attaching them to the motor as of now. 
+
+## November 14
+
+Today our to-do is:
+1. Start building the hands.
+2. Attach elbow motors and figure out wiring.
