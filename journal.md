@@ -333,6 +333,20 @@ He advised us to craft the fingers first out of cardboard, but hold off on attac
 
 ## November 14
 
-Today our to-do is:
-1. Start building the hands.
-2. Attach elbow motors and figure out wiring.
+Today, we first started by fixing and revising our audio and motor control using nRF controller + music maker shield. After making sure that they're both working, we then moved onto revising the code for the waist motor movement, because we wanted it to repeat twice and also make the turns not as sharp as they were.
+For this, we just adjusted the degree of angle for both right and left turn, and we also just had it repeating twice, like this:
+![WhatsApp Image 2025-11-15 at 11 36 41 (1)](https://github.com/user-attachments/assets/1583dff3-2429-4f65-be07-b5770348df04)
+
+After finishing revising the waist motor completely, we then focused on attaching elbow motors to our robot arms. We first screwed the motors onto their frames, and then we screwed on the frames onto the bottom of the elbows, where the wooden boards were attached. 
+
+However, in order for us to do that, we realized we had to cut open parts of the arms because otherwise we couldn't reach inside to screw the nuts onto the bolts. So we made rectangle openings at the back of the arms like this:
+![WhatsApp Image 2025-11-15 at 11 36 41](https://github.com/user-attachments/assets/61406249-100c-4b05-a1e9-2c4aecfee92d)
+
+And then we attached the motors:
+![WhatsApp Image 2025-11-15 at 11 36 40](https://github.com/user-attachments/assets/551faf13-7b00-44d2-9cb2-0b11ee0a06a8)
+
+And that was it for today!
+
+## November 15
+
+Today we began by figuring out the wiring of the two elbow motors and also finished programming the code for them.
