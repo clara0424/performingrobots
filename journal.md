@@ -356,3 +356,18 @@ As for attaching the arms to the elbow motors, we first had to create our own br
 ![WhatsApp Image 2025-11-16 at 21 14 18](https://github.com/user-attachments/assets/3ceb0d3b-8596-4623-bffb-71d427d5c5a3)
 ![WhatsApp Image 2025-11-16 at 21 14 17](https://github.com/user-attachments/assets/dd307fca-2e21-45e1-b3d8-72f9493aa54a)
 
+Most of our work went into shaping and cutting the [ brackets so that they're the right size and bent shape for the arm rectangles, and we also measured out where the holes of the motor would be on the [ brackets to drill through them and attach the motor gadget on.
+![WhatsApp Image 2025-11-16 at 21 14 17](https://github.com/user-attachments/assets/98362e59-8562-4400-b315-8d9c94ba0e57)
+![WhatsApp Image 2025-11-16 at 21 14 16 (2)](https://github.com/user-attachments/assets/a5b7fb59-610e-4cd8-8c71-660ef0cda1da)
+![WhatsApp Image 2025-11-16 at 21 14 14](https://github.com/user-attachments/assets/f1b5789d-e57f-4826-b14e-803f8bf5ecad)
+![WhatsApp Image 2025-11-16 at 21 14 16 (1)](https://github.com/user-attachments/assets/12247724-25a5-4bd4-93bb-275322337802)
+![WhatsApp Image 2025-11-16 at 21 31 29](https://github.com/user-attachments/assets/1327bcba-115b-483c-ab38-4b719d1b5708)
+
+We also filed away some of the screws so that they would fit the gadget perfectly:
+![WhatsApp Image 2025-11-16 at 21 14 16](https://github.com/user-attachments/assets/23706108-f3f2-4007-bb91-557904c25efc)
+
+Then we drilled 4 holes per arm rectangle and the metal [ bracket so that we can have screws going through the metal and into the wooden part of the arm rectangle.
+![WhatsApp Image 2025-11-16 at 21 14 13](https://github.com/user-attachments/assets/0a068eeb-d94e-4c17-893d-0a0ad7addbb8)
+
+And just like that, the arms were finished! Our next step would be to create the hands (attaching motors + making the fingers).
+![WhatsApp Image 2025-11-16 at 21 14 12](https://github.com/user-attachments/assets/1463408b-a0ba-4a7c-87bd-6e9a09bd1994)
