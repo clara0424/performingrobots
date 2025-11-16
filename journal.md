@@ -349,4 +349,10 @@ And that was it for today!
 
 ## November 15
 
-Today we began by figuring out the wiring of the two elbow motors and also finished programming the code for them.
+Today, we began by editing the code for the two elbow motors and also attaching the arms to the elbow motors.
+
+We first fixed the code so that both the right and the left elbow motors are moving at the same time, with their starting angles being downwards and then moving upwards.
+As for attaching the arms to the elbow motors, we first had to create our own bracket of our own out of metal strips which we got from the scene shop, and we decided to bend them in a [ shape so that it hugs around the arm rectangle. 
+![WhatsApp Image 2025-11-16 at 21 14 18](https://github.com/user-attachments/assets/3ceb0d3b-8596-4623-bffb-71d427d5c5a3)
+![WhatsApp Image 2025-11-16 at 21 14 17](https://github.com/user-attachments/assets/dd307fca-2e21-45e1-b3d8-72f9493aa54a)
+
