@@ -371,3 +371,23 @@ Then we drilled 4 holes per arm rectangle and the metal [ bracket so that we can
 
 And just like that, the arms were finished! Our next step would be to create the hands (attaching motors + making the fingers).
 ![WhatsApp Image 2025-11-16 at 21 14 12](https://github.com/user-attachments/assets/1463408b-a0ba-4a7c-87bd-6e9a09bd1994)
+
+## November 18
+
+Now that we were done with arms, we decided to move on to crafting the fingers for the hands. We considered a few different shapes, such as making the thumb more curved so that it's more human-like or making it a thinner 3D strip than the width of the forearm, but in the end we decided that it won't be too weird even if we make it the same width as the forearm's square -- our vision was to make the hand look more like the lego hands, as pictured below:
+<img width="599" height="449" alt="image" src="https://github.com/user-attachments/assets/69563b5b-705c-47b0-ae16-1e9f8a72cc1f" />
+
+So we decided to make the thumb a 3D rectangle with a low height, as follows: 
+![WhatsApp Image 2025-11-18 at 22 04 43](https://github.com/user-attachments/assets/1faa65c8-e642-427b-93ac-80cf5f7198b1)
+
+Then we attached both pieces to either side of the arm:
+![WhatsApp Image 2025-11-18 at 22 05 15](https://github.com/user-attachments/assets/d5ec62d1-8562-4a40-90ad-8bfeedf93c7c)
+![WhatsApp Image 2025-11-18 at 22 05 15 (1)](https://github.com/user-attachments/assets/960bb457-e71a-404e-a6fd-5136734beca8)
+
+We also fixed the code so that now we have three movements with the elbow motors, which are:
+1. Position 0: default (waist is facing the front, both elbows are down)
+2. Position 1: waist rotation (repeated twice)
+3. Position 2: both elbows rise up at the same time, and the hands will do clacking motion.
+4. Position 3: dance move where as right elbow is up and then goes down, the left elbow comes up so that they are rotating; will repeat twice.
+
+Our next step is to build the rest of the hand, other than the thumb, which will be the part that will rotate via the motor, and create code for the clacking motion. Then we will move onto the face, which we are envisioning of having neopixels for the eyes and potentially attach motors for the eyebrow movement.
