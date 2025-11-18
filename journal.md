@@ -224,7 +224,6 @@ We unfortunately don't have any pictures from this day, but we took our Arduino 
 
 ## November 6
 In class today we tried to fix the waist motor because, for some reason, the motor wasn't working (the last time we tested it was working fine), but we didn't quite get to solving it yet; however, we are thinking of inspecting the wiring of it to see what the problem might be.
-![WhatsApp Image 2025-11-07 at 01 10 13](https://github.com/user-attachments/assets/77a6b773-7cd0-4e22-aeaa-c282c378493b)
 ![WhatsApp Image 2025-11-07 at 01 10 13](https://github.com/user-attachments/assets/4adae63b-20d4-4204-b27e-efa714c9b0c9)
 
 Here are things that we are going to get done this weekend + till next Thursday 11/13:
