@@ -404,4 +404,4 @@ Today we will do:
 1. Fix the movements
 2. Do hand motors
 3. Fix cases in code
-
+4. Fix the play (add some of our lines)
