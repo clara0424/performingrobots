@@ -401,7 +401,10 @@ https://github.com/user-attachments/assets/83f10a5a-1090-4cd4-8a97-7e51264d9995
 ## November 22
 
 Today we will do:
-1. Fix the movements
-2. Do hand motors
-3. Fix cases in code
-4. Fix the play (add some of our lines)
+1. Do hand motors
+2. Fix cases in code
+3. Fix the play (add some of our lines)
+
+We also re-soldered the wire that keeps falling out for our base motor. 
+
+However, our arms fell out while we were trying to rotate our waist, so we just ended up spending the day cutting the wooden pieces for the arms. Then we just ran through the play and added the movements we'll be triggering for each of our lines. We also fixed some of the cases in our code so that they're in order.
