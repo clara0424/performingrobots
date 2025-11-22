@@ -389,3 +389,19 @@ We also fixed the code so that now we have three movements with the elbow motors
 4. Position 3: dance move where as right elbow is up and then goes down, the left elbow comes up so that they are rotating; will repeat twice.
 
 Our next step is to build the rest of the hand, other than the thumb, which will be the part that will rotate via the motor, and create code for the clacking motion. Then we will move onto the face, which we are envisioning of having neopixels for the eyes and potentially attach motors for the eyebrow movement.
+
+## November 20
+
+This isn't really a progress check, but I wanted to update about our class rehearsal we had this Thursday. Here are some pictures and a video from our run-through!
+
+![20251120_164457](https://github.com/user-attachments/assets/6d68d79a-3dc0-4800-aaff-b431eb536097)
+![20251120_164502](https://github.com/user-attachments/assets/76daca54-0256-443f-b2a9-0c101bcd3937)
+https://github.com/user-attachments/assets/83f10a5a-1090-4cd4-8a97-7e51264d9995
+
+## November 22
+
+Today we will do:
+1. Fix the movements
+2. Do hand motors
+3. Fix cases in code
+
