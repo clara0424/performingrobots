@@ -408,3 +408,12 @@ Today we will do:
 We also re-soldered the wire that keeps falling out for our base motor. 
 
 However, our arms fell out while we were trying to rotate our waist, so we just ended up spending the day cutting the wooden pieces for the arms. Then we just ran through the play and added the movements we'll be triggering for each of our lines. We also fixed some of the cases in our code so that they're in order.
+
+## November 24
+
+Here's the tentative schedule for the week:
+- hands + also arms because they fell out (finish by tomorrow 11/25)
+- sound clips (I already recorded all the dialogues this weekend, so we now have to program them in; we are thinking of finishing this by today 11/24)
+- clothing + painting hands and face (finish by friday 11/28)
+- make face (finish by wednesday 11/26)
+- wire management (if we remember correctly, this is something that prof mentioned that he'll teach us?)
