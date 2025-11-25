@@ -417,3 +417,10 @@ Here's the tentative schedule for the week:
 - clothing + painting hands and face (finish by friday 11/28)
 - make face (finish by wednesday 11/26)
 - wire management (if we remember correctly, this is something that prof mentioned that he'll teach us?)
+
+As planned, we finished programming all the sound clips into the Arduino code.
+
+## November 25
+
+Today we got to finishing our arms first by continuing the cutting that we were doing since last week -- we then drilled the arms onto the shoulders so that the arms will be fastened with no concerns about them falling out again.
+
