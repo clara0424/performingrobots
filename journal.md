@@ -424,3 +424,4 @@ As planned, we finished programming all the sound clips into the Arduino code.
 
 Today we got to finishing our arms first by continuing the cutting that we were doing since last week -- we then drilled the arms onto the shoulders so that the arms will be fastened with no concerns about them falling out again.
 
+(+ We also need to add typing noises for typing dialogues!)
