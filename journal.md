@@ -423,6 +423,15 @@ As planned, we finished programming all the sound clips into the Arduino code.
 ## November 25
 
 Today we got to finishing our arms first by continuing the cutting that we were doing since last week -- after cutting and resizing the wooden squares, we glued them onto the cardboard arm box structure, and then we drilled the arms onto the shoulders so that the arms will be fastened with no concerns about them falling out again.
+![WhatsApp Image 2025-11-26 at 13 11 12 (2)](https://github.com/user-attachments/assets/3f4028bd-1e58-4ec3-bfdc-2b1897a09169)
+![WhatsApp Image 2025-11-26 at 13 11 13](https://github.com/user-attachments/assets/7d59ec50-ccf3-4110-92ca-64de15f63ec0)
+![WhatsApp Image 2025-11-26 at 13 11 12 (1)](https://github.com/user-attachments/assets/62220c80-ab66-49e7-8a11-c342a0349c4d)
+
+Then one of our wires fell out again, so we reattached it. 
+![WhatsApp Image 2025-11-26 at 13 11 12](https://github.com/user-attachments/assets/fa009811-fa23-4244-b7ee-84bbc07a972f)
+
+And then we attached the 
+
 
 
 
