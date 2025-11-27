@@ -447,3 +447,8 @@ We also made some progress with the facial features
 
 
 (+ We also need to add typing noises for typing dialogues!)
+
+
+questions for prof:
+1. our wheels are unreliable - in the beginning it works really well, but as time goes on, it starts to make a weird sound and the wheels stop moving. theres a lot of friction in the wheels and they dont go forward and backward in a straight path.
+2. we noticed that the receiver to transmitter conncetion only works when receiver is connected/powered directly from our computer instead of a power bank.
