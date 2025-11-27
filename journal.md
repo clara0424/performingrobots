@@ -430,8 +430,18 @@ Today we got to finishing our arms first by continuing the cutting that we were 
 Then one of our wires fell out again, so we reattached it. 
 ![WhatsApp Image 2025-11-26 at 13 11 12](https://github.com/user-attachments/assets/fa009811-fa23-4244-b7ee-84bbc07a972f)
 
-And then we attached the 
+And then we tried to envision how the hand motors will be attached, but we didn't want to do anything rash until we were sure; so we decided to wait on that. Instead, we started making the face and attached it to the neck.
+![WhatsApp Image 2025-11-26 at 13 11 11 (1)](https://github.com/user-attachments/assets/86bac6e1-d32c-4581-984e-d907ea3af552)
+![WhatsApp Image 2025-11-26 at 13 11 10](https://github.com/user-attachments/assets/e4c5de03-3593-4c62-86c5-e244f650da74)
+![WhatsApp Image 2025-11-26 at 13 11 11](https://github.com/user-attachments/assets/4f798080-0ebf-4d2a-96c6-b0079ed95a21)
 
+## November 26
+
+We asked the professor how to attach the motor, and he advised us that we should have two small pieces of wood stuck onto the cardboard hands and that they should have grooves so that the cardboard can stick through them. He helped us cut the wooden pieces and even demonstrated how to put them on...but then we lost the two pieces of wood as well as our motor -- we left them at our table, but then when we came back, everything was gone! So we spent the night working on reorganizing the code and the cases, and made sure that the code is ready to go once we attach the finger motors the next day.
+
+
+
+We also made some progress with the facial features 
 
 
 
