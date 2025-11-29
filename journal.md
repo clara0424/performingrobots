@@ -437,17 +437,45 @@ And then we tried to envision how the hand motors will be attached, but we didn'
 
 ## November 26
 
-We asked the professor how to attach the motor, and he advised us that we should have two small pieces of wood stuck onto the cardboard hands and that they should have grooves so that the cardboard can stick through them. He helped us cut the wooden pieces and even demonstrated how to put them on...but then we lost the two pieces of wood as well as our motor -- we left them at our table, but then when we came back, everything was gone! So we spent the night working on reorganizing the code and the cases, and made sure that the code is ready to go once we attach the finger motors the next day.
+We asked the professor how to attach the motor, and he advised us that we should have two small pieces of wood stuck onto the cardboard hands and that they should have grooves so that the cardboard can stick through them. He helped us cut the wooden pieces and even demonstrated how to assemble them...but then we lost the two pieces of wood, as well as our motor. We left them at our table, but when we came back, everything was gone! We spent the night working on reorganizing the code and cases, ensuring the code is ready to go once we attach the finger motors the next day.
 
+## November 27
 
+The first thing I did in the morning was re-cut the wooden pieces that we lost the last night (p.s. we found out later that professor took them haha). I also remade the hand flaps out of cardboard.
+![20251127_101017](https://github.com/user-attachments/assets/b7271d5e-cac3-4aae-a708-e562ae83d3f8)
+![20251127_110613](https://github.com/user-attachments/assets/0bd66fb6-5938-4a32-b2ee-47aa63a423f7)
+![20251127_111758](https://github.com/user-attachments/assets/cacf2565-f75c-4eff-9e87-57ab12e981bb)
 
-We also made some progress with the facial features 
+Then we screwed the motor onto the inside of the cardboard arm:
+![20251127_134003](https://github.com/user-attachments/assets/a23ee9dc-c5b2-45a8-84a7-8b33566d283f)
 
+And also attached the cardboard flap onto the wooden piece by fitting it into the groove. 
+![20251127_143539](https://github.com/user-attachments/assets/ecfe2365-909c-4c12-9152-ea5406b18677)
+![20251127_143549](https://github.com/user-attachments/assets/3bcca541-97cd-4deb-95eb-7df9cc5a2346)
 
+And just like that, the hands were done. :)
 
+We also attached the cut-out pieces of the eyes and the lips that are glued onto the cardboard onto the face:
+![20251127_163855](https://github.com/user-attachments/assets/f722ecf4-f2ae-40ee-9ceb-7d3288e5fbf5)
+
+As for the wiring of the hands, we used pins 18 and 16, each respectively for left and right hand.
+![IMG-20251127-WA0046](https://github.com/user-attachments/assets/af1871ec-dab6-4398-9494-3047b625d709)
+
+We also fastened the hand flap at an angle that's upwards so that the clacking will show better.
+![IMG-20251127-WA0047](https://github.com/user-attachments/assets/e72657c8-30fc-4548-80b9-58742c9acbe8)
+
+## November 28
+
+Today Jiho and I stayed up finalizing all of the cases with the newly added, including the hand clacking motions. We also tested to make sure that every case was working at just the right timing with the correct actions, angles, and audio dialogues. 
+
+We also realized that one of the motors is broken, so we replaced this with a new one.
+![20251129_004040](https://github.com/user-attachments/assets/f6a2bae5-9b7e-439e-9d2b-06d064d7386d)
+
+## November 29
+
+Today was just painting day -- I painted both the arms and hands as well as the neck and the head of the robot, and called it a day!
 
 (+ We also need to add typing noises for typing dialogues!)
-
 
 questions for prof:
 1. our wheels are unreliable - in the beginning it works really well, but as time goes on, it starts to make a weird sound and the wheels stop moving. theres a lot of friction in the wheels and they dont go forward and backward in a straight path.
