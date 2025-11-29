@@ -469,7 +469,7 @@ We also fastened the hand flap at an angle that's upwards so that the clacking w
 Today Jiho and I stayed up finalizing all of the cases with the newly added, including the hand clacking motions. We also tested to make sure that every case was working at just the right timing with the correct actions, angles, and audio dialogues. 
 
 We also realized that one of the motors is broken, so we replaced this with a new one.
-![20251129_004040](https://github.com/user-attachments/assets/f6a2bae5-9b7e-439e-9d2b-06d064d7386d)
+![20251129_004040](https://github.com/user-attachments/assets/14a979a7-e389-4fee-9ae3-40868848ca3f)
 
 ## November 29
 
