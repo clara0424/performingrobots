@@ -475,8 +475,14 @@ We also realized that one of the motors is broken, so we replaced this with a ne
 
 Today was just painting day -- I painted both the arms and hands as well as the neck and the head of the robot, and called it a day!
 
-(+ We also need to add typing noises for typing dialogues!)
-
-questions for prof:
+We also had some questions for professor, based on observations we've been making about our robot:
 1. our wheels are unreliable - in the beginning it works really well, but as time goes on, it starts to make a weird sound and the wheels stop moving. theres a lot of friction in the wheels and they dont go forward and backward in a straight path.
 2. we noticed that the receiver to transmitter conncetion only works when receiver is connected/powered directly from our computer instead of a power bank.
+
+So now pulling up the list of to-dos that we had from last week, here's our progress with our FINAL to-do list so far:
+- paint hands (DONE)
+- face (DONE)
+- hands (DONE)
+- clothing (original plan was to finish by Thursday, but we decided to do this over the break)
+- eyebrows motor (over break)
+- add typing noises for typing dialogues (over break)
