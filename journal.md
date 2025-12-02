@@ -486,3 +486,13 @@ So now pulling up the list of to-dos that we had from last week, here's our prog
 - clothing (original plan was to finish by Thursday, but we decided to do this over the break)
 - eyebrows motor (over break)
 - add typing noises for typing dialogues (over break)
+
+## December 1
+
+Today we took the professor's diagrams and advice on how to screw the hands onto the arms, and we finished drilling them. 
+We also got halfway through soldering wires onto Neopixels, but we stopped midway because we wanted to run them through with the professor.
+
+## December 2
+
+Today we finished soldering the neopixels and put them on the head of our robot.
+![WhatsApp Image 2025-12-02 at 15 30 40](https://github.com/user-attachments/assets/b39f82f2-8762-4b3a-8ff1-92ec02bd9d7d)
