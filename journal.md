@@ -494,5 +494,28 @@ We also got halfway through soldering wires onto Neopixels, but we stopped midwa
 
 ## December 2
 
-Today we finished soldering the neopixels and put them on the head of our robot.
-![WhatsApp Image 2025-12-02 at 15 30 40](https://github.com/user-attachments/assets/b39f82f2-8762-4b3a-8ff1-92ec02bd9d7d)
+Today we finished soldering the neopixels and put them on the head of our robot. We cut out 4 rectangular spaces for our eyebrows (we did 4 because we are thinking of doing raised eyebrows and default eyebrows, and we plugged in our neopixels behind those empty rectangular spaces.
+![WhatsApp Image 2025-12-03 at 11 57 21](https://github.com/user-attachments/assets/77dbf457-064a-42ae-be20-9219ed0e3699)
+![WhatsApp Image 2025-12-03 at 11 57 20](https://github.com/user-attachments/assets/54e7e7f4-262c-4a7b-83e1-a5a8878de88e)
+![WhatsApp Image 2025-12-03 at 11 57 19](https://github.com/user-attachments/assets/2db08b9f-0304-4c05-9156-4b286083175c)
+
+And then we tried programming them, but they didn't really work - so we just left them for now.
+
+## December 3
+
+Today was the continuation of refining the visuals of the robot as well as the programming for the neopixels. We decided to put the sparkly silver dress on her as well as cover her shoulders, which we didn't paint, and we pinned the fabrics down using some cloth pins.
+
+We also painted the bottom half of her body with silver paint because we wanted the rest of the sides that won't be shown with the silver skirt to still seem like an extension of the dress she's wearing. 
+![WhatsApp Image 2025-12-04 at 22 25 30](https://github.com/user-attachments/assets/1b0f70fb-cd38-4cce-802a-96ba3b75d7b0)
+![WhatsApp Image 2025-12-04 at 22 25 29](https://github.com/user-attachments/assets/38b1bdea-35e4-4561-8308-7035ed01ceec)
+![WhatsApp Image 2025-12-04 at 22 25 27](https://github.com/user-attachments/assets/6ddbf59e-6b83-425f-9d43-c156f8553682)
+
+## December 4
+
+We just had our final 3-hour lab class of the semester today! We did in-class rehearsal, and here is the list of things that Jiho and I still have to complete by next Monday:
+1. Change the wheel motors to the slower ones.
+2. Add typing sounds.
+3. Add exclamation sounds.
+4. Figure out eyebrows.
+
+We are so close to the end, and we're excited for the last push till we reach the finish line!
