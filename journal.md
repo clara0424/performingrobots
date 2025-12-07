@@ -519,3 +519,12 @@ We just had our final 3-hour lab class of the semester today! We did in-class re
 4. Figure out eyebrows.
 
 We are so close to the end, and we're excited for the last push till we reach the finish line!
+
+## December 7
+
+Today, we finished the following:
+1. Adding the typing sounds to the audio (I just edited the voice files with the typing and reuploaded them into the SD cards).
+2. Figured out the eyebrows (we decided to just use only the bottom eyebrows instead of trying to raise them by using 4).
+
+We also tested the motors, and they seemed to be working better again, so we decided to try driving it for a while again tomorrow and see if we should replace them or not.
+![WhatsApp Image 2025-12-08 at 00 48 56](https://github.com/user-attachments/assets/7470eb74-b726-447b-a32f-0b48693c11d7)
