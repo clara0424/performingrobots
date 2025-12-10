@@ -541,11 +541,15 @@ Many unexpected challenges came up, and here's a rundown of all the fixes we mad
   
 5. Speaking of her fall...after she fell, Jiho had to rewire/reorganize all of the Arduino boards, speaker, batteries, etc. that were placed inside the torso space, and so this took a while too.
 
-Then, on the day of the showcase, 2 hours before the actual show, our robot's right arm fell off unexpectedly during our last rehearsal. And then that fallen arm broke into halves, the upper part of the arm and the lower forearm. So Professor Shiloh helped us with creating a new bracket for the elbow and rescrewing the lower forearm back onto the elbow, and Jiho and I just hotglued the upper arm back onto the shoulder and also reinforced it with many small cardboard triangles.
+Then, on the day of the showcase, 2 hours before the actual show, our robot's right arm fell off unexpectedly during our last rehearsal. And then that fallen arm broke into halves, the upper part of the arm and the lower forearm. So Professor Shiloh helped us with creating a new bracket for the elbow and rescrewing the lower forearm back onto the elbow, and Jiho and I just hot-glued the upper arm back onto the shoulder and also reinforced it with many small cardboard triangles.
 ![20251209_163043](https://github.com/user-attachments/assets/12b8fac2-b933-48e8-8308-c64ba29576d6)
 ![20251208_161136](https://github.com/user-attachments/assets/34a9e3bc-afda-486d-9f70-215bf4d74c9e)
-![20251209_163043](https://github.com/user-attachments/assets/cadf7757-a359-4282-91ff-615f890d0885)
 
 We also had trouble with the cases right before the show - for some reason, they kept not working at all when we were trying to send commands through the transmitter, and we kept having to feed our code back into the receiver (Arduino Mega) every few minutes for the cases to work. Because of this we were very worried when we were about to start the performance since there was some time between us feeding in the code and the time when the show was actually starting, but thankfully, we didn't have to refeed the code again.
+
 The actual show went super smoothly, at least in terms of our robot's actions and commands! The driving did have some trouble in the very beginning when I was trying to bring her out onto the stage from the sidelines, but other than that it wasn't too bad. All of our cases worked successfully as well, and we could hear her loud and clear! I actually ended up having some fun collaborating with Jiho spontaneously at the spot as I was in charge of the driving and she was in charge of feeding in the cases.
+
+We are so, so grateful for all the support that Professor Michael has given to us throughout the entire semester -- I'm pretty sure our group was the one who bombarded him with questions the most, haha. And he never once hesitated to give his support and time whenever we asked for his help. And thank you so much to Jiho for pushing through even though she was so busy this semester -- she never pulled out of our meetings and always asked me to wait for her to come and work on the robot together, even when she had an insanely busy schedule throughout the entire semester. 
+
+And to our robot, you will be missed! You were such a baddie on that stage last night.
 ![IMG-20251210-WA0020](https://github.com/user-attachments/assets/659d30ec-180c-4d52-af55-54cd59680b29)
