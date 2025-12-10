@@ -551,5 +551,7 @@ The actual show went super smoothly, at least in terms of our robot's actions an
 
 We are so, so grateful for all the support that Professor Michael has given to us throughout the entire semester -- I'm pretty sure our group was the one who bombarded him with questions the most, haha. And he never once hesitated to give his support and time whenever we asked for his help. And thank you so much to Jiho for pushing through even though she was so busy this semester -- she never pulled out of our meetings and always asked me to wait for her to come and work on the robot together, even when she had an insanely busy schedule throughout the entire semester. 
 
+This has been a dream class that I told myself that I'll take before graduating ever since I saw the robot showcase in my freshmen year, and it feels surreal to think that I have now completed the course and have successfully brought one robot to life; it's also crazy to think that now I'm in the upperclassmen position who is (hopefully) inspiring the future/underclassmen IM students on this campus. How time flies. :)
+
 And to our robot, you will be missed! You were such a baddie on that stage last night.
 ![IMG-20251210-WA0020](https://github.com/user-attachments/assets/659d30ec-180c-4d52-af55-54cd59680b29)
