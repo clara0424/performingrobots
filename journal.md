@@ -528,3 +528,24 @@ Today, we finished the following:
 
 We also tested the motors, and they seemed to be working better again, so we decided to try driving it for a while again tomorrow and see if we should replace them or not.
 ![WhatsApp Image 2025-12-08 at 00 48 56](https://github.com/user-attachments/assets/7470eb74-b726-447b-a32f-0b48693c11d7)
+
+## December 8-9
+
+A lot of trials and errors, as well as last-minute fixing and troubleshooting, occurred over the course of the last two days leading up to the recital.
+
+Many unexpected challenges came up, and here's a rundown of all the fixes we made:
+1. We ended up reuploading all the audio files during the texting scene back into the transmitter as well as the receiver because the typing sound was way too low for most of the dialogue.
+2. One of the eyebrows kept turning on and off (we think the soldering wasn't as stable), so we kept retesting and refastening the wiring and the code.
+3. We also decided to paint the backside of our robot with the same silver paint because we decided to drive her with her back facing the audience when she's being driven from the backline. This was because our wheel motors weren't as stable/smooth when they were moving forward versus when they were moving backwards, so we decided to drive her backwards; it was also because she kept jerking in a very unstable way whenever she came to a stop when we were driving her forward, which led to her falling flat on her face during the Monday night rehearsal. At this point we deemed that it was too late to change the motors, so we just decided to drive her backwards than forwards to not risk her falling again.
+![20251209_013614](https://github.com/user-attachments/assets/7052598c-5638-4a06-8cf6-afd9c76ce160)
+  
+5. Speaking of her fall...after she fell, Jiho had to rewire/reorganize all of the Arduino boards, speaker, batteries, etc. that were placed inside the torso space, and so this took a while too.
+
+Then, on the day of the showcase, 2 hours before the actual show, our robot's right arm fell off unexpectedly during our last rehearsal. And then that fallen arm broke into halves, the upper part of the arm and the lower forearm. So Professor Shiloh helped us with creating a new bracket for the elbow and rescrewing the lower forearm back onto the elbow, and Jiho and I just hotglued the upper arm back onto the shoulder and also reinforced it with many small cardboard triangles.
+![20251209_163043](https://github.com/user-attachments/assets/12b8fac2-b933-48e8-8308-c64ba29576d6)
+![20251208_161136](https://github.com/user-attachments/assets/34a9e3bc-afda-486d-9f70-215bf4d74c9e)
+![20251209_163043](https://github.com/user-attachments/assets/cadf7757-a359-4282-91ff-615f890d0885)
+
+We also had trouble with the cases right before the show - for some reason, they kept not working at all when we were trying to send commands through the transmitter, and we kept having to feed our code back into the receiver (Arduino Mega) every few minutes for the cases to work. Because of this we were very worried when we were about to start the performance since there was some time between us feeding in the code and the time when the show was actually starting, but thankfully, we didn't have to refeed the code again.
+The actual show went super smoothly, at least in terms of our robot's actions and commands! The driving did have some trouble in the very beginning when I was trying to bring her out onto the stage from the sidelines, but other than that it wasn't too bad. All of our cases worked successfully as well, and we could hear her loud and clear! I actually ended up having some fun collaborating with Jiho spontaneously at the spot as I was in charge of the driving and she was in charge of feeding in the cases.
+![IMG-20251210-WA0020](https://github.com/user-attachments/assets/659d30ec-180c-4d52-af55-54cd59680b29)
